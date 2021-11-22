@@ -17,3 +17,5 @@ test:
     project root path :  go test ./...
 
 run :
+
+    project root path ： go run server/server_simple_proto.go   and   go run client/client_simple_proto.go
